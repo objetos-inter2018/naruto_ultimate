@@ -5,6 +5,10 @@ En este juego encaras el papel del ninja naruto que tendra que escapar de los ni
 ### Descripcion del juego
 
 Podras controlar al personaje con las teclas direcionales del teclado. Tendras que esquivar a los diferentes enemigos y armas que te podran lanzar. cuentas con tres vidas asi que se cuidadoso
+el juego cuenta con tres niveles de dificultad
+facil:son pocos enemigos y una menor distancia que recorrer
+normal:aumentan los enemigos, se colocan algunas trampas , aumenta la distancia
+dificil:un gran numero de enemigos y trampas, aumenta la distancia
 Tu mision es llegar al final del recorrido hacia abajo 
 
 
