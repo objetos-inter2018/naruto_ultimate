@@ -2,18 +2,29 @@
 
 En este juego encaras el papel del ninja naruto que tendra que escapar de los ninjas traidores de su aldea
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Descripcion del juego
 
-Podras controlar al personaje con las teclas direcionales del teclado. Tendras que esquivar a los diferentes enemigos y armas que te podran lanzar. Tu mision es llegar al final del recorrido hacia abajo
-
+Podras controlar al personaje con las teclas direcionales del teclado. Tendras que esquivar a los diferentes enemigos y armas que te podran lanzar. cuentas con tres vidas asi que se cuidadoso
+Tu mision es llegar al final del recorrido hacia abajo 
 
 
 ### Heroe
+![naruto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyTx4pa4GIeT-7MlT6NjW38ihpWq4Gzquz1dKYtE4I-F1WFx4A)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/objetos-inter2018/naruto_ultimate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### enemigos
+habra tres tipos de enemigos. Cada enemigo te lanza un arma diferente  
+-![enemigo](http://de.narutopedia.eu/images/thumb/b/b9/Shinobu.png/250px-Shinobu.png)
 
-### Support or Contact
+-![enemigo2](https://myanimelist.cdn-dena.com/r/360x360/images/characters/16/108064.jpg?s=7bb236cd25bb3ef970ccc0975afdd054)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-![enemigo3](https://myanimelist.cdn-dena.com/images/characters/13/108065.jpg)
+
+### bonus
+en tu camino encontaras dos tipos de pergaminos
+uno te ayudara a recuperar vida y el otro te dara mayor velocidad
+-![bonus](https://vignette.wikia.nocookie.net/naruto/images/b/b7/Rollos.png/revision/latest?cb=20160122204324&path-prefix=es)
+
+### trampa
+tambien podras toparte con bombas a lo largo de tu mision  
+-![trampa](https://pm1.narvii.com/6471/23c02f0e65eb8b6508eada0f0ced243783048167_hq.jpg)
+
